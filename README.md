@@ -12,7 +12,11 @@ kubectl version
 ```
 
 3. Repositories  
-Clone the `mental_health_survey_api` and `mental-health-survey-frontend` reposiories into this directory in this structure:
+Clone the `mental_health_survey_api` and `mental-health-survey-frontend` repositories into this directory in this structure:
+```bash
+git clone https://github.com/T-Ralph/mental_health_survey_api.git
+git clone https://github.com/T-Ralph/mental-health-survey-frontend.git
+```
 ```directory
 mental-health-survey/
 ├── mental_health_survey_api/
